@@ -16,11 +16,11 @@ A modern, mobile-friendly full stack dashboard simulating Google Business insigh
 
 ## 🧪 Try It Locally
 
-### Backend
+### Frontend
 ```bash
-cd backend
+cd frontend
 npm install
-node index.js
+npm start
 
 
 ### Frontend
